@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Merve Seçinti Şahan</h1>
-- 🌱 I’m currently learning **Selenium**
+- 🌱 I’m currently learning **API**
 
 - 💬 Ask me about **Core Java, Lambda, Git, Github, SQL, JDBC, HTML, CSS, Selenium**
 
